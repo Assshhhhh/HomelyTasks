@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "134127726510",
+    "project_id": "homelytasks-c9c7a",
+    "storage_bucket": "homelytasks-c9c7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134127726510:android:bae31cc1a91f60366e623f",
+        "android_client_info": {
+          "package_name": "com.example.homelytasks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzEVMhgqFlt9wla8aLzQVflF5fRg4eG_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
